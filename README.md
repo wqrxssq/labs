@@ -12,3 +12,4 @@
 ## Лабы по математическому анализу
 
 - [Численное дифференцирование и аппроксимация функции](/src/Mathematical_analysis/approximations.ipynb)
+- [Численное интегрирование](/src/Mathematical_analysis/integrals.ipynb)
