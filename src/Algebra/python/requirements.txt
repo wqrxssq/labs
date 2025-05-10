@@ -1,0 +1,4 @@
+sympy >= 1.12
+typing >= 3.7.4
+typing_extensions >= 3.7.4
+pytest
