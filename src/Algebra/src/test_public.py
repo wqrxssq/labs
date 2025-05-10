@@ -3,7 +3,7 @@ from sympy import Matrix, randMatrix
 from hashlib import md5
 
 
-from solution import AbelianGroup, PersonalInfo, smith_normal_form
+from Algebra.src.solution import AbelianGroup, PersonalInfo, smith_normal_form
 
 
 def test_personal_info():
