@@ -14,6 +14,7 @@
 
 - [Численное дифференцирование и аппроксимация функции](/src/Mathematical_analysis/approximations.ipynb)
 - [Численное интегрирование](/src/Mathematical_analysis/integrals.ipynb)
+- [Градиентный спуск, Координатный спуск, Метод Ньютона](/src/Mathematical_analysis/gradient_descent.ipynb)
 
 ## Лабы по алгебре
 
